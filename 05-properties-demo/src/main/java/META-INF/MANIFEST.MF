@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+
+Main-Class: com.luzzetti.springboot.demo.mycoolapp.MycoolappApplication
+
